@@ -39,6 +39,15 @@ output:
 ![output:](https://github.com/user-attachments/assets/dcd6a64f-f908-41c0-991c-43b64903a97b)
 
 
+**#Day 6**
+
+Topics: DOM Manipulation
+
+src=[GreatStack](https://youtu.be/WjxQRfZfZnw?si=tIVn8Mu9Pi2RMvzJ)
+
+mini project : QR Code Generator 
+
+
 
 
 
