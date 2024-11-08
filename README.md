@@ -29,14 +29,13 @@ src=[geeksforgeeks](https://www.geeksforgeeks.org/classes-and-objects-in-javascr
 
 #Day 5
 
-1.creating console to Bill Invoice
+creating console to Bill Invoice
 
 output:
 
-![output:](https://github.com/user-attachments/assets/0a32aa01-7c82-4206-934d-0f8691b9a339)
+![output:](https://github.com/user-attachments/assets/dcd6a64f-f908-41c0-991c-43b64903a97b)
 
 
-2. Mini project 
 
 
 
