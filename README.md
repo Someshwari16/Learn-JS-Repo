@@ -1,4 +1,4 @@
-##My coursework in JS
+#My coursework in JS
 
 This repo is for My daily progress of learning Js
 
@@ -25,4 +25,15 @@ src=[[freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg?si=4-CfTI2RyWzP5b9P)
 Topics : objects,events,class
 
 src=[geeksforgeeks](https://www.geeksforgeeks.org/classes-and-objects-in-javascript/)
+
+
+#Day 5
+
+creating console to Bill Invoice 
+
+[!preview]](https://github.com/user-attachments/assets/6738e5d3-3a44-490e-a8a3-6374c71ac449)
+
+
+
+
 
