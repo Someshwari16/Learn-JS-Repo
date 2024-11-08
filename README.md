@@ -1,4 +1,5 @@
-# My coursework in JS
+##My coursework in JS
+
 This repo is for My daily progress of learning Js
 
 #Day 1 
@@ -18,3 +19,10 @@ src=[freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg?si=4-CfTI2RyWzP5b9P)
 Topics : functions,conditions,objects 
 
 src=[[freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg?si=4-CfTI2RyWzP5b9P)
+
+
+#Day 4
+Topics : objects,events,class
+
+src=[geeksforgeeks](https://www.geeksforgeeks.org/classes-and-objects-in-javascript/)
+
