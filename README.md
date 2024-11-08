@@ -31,7 +31,7 @@ src=[geeksforgeeks](https://www.geeksforgeeks.org/classes-and-objects-in-javascr
 
 creating console to Bill Invoice
 
-![output:](![output](https://github.com/user-attachments/assets/d06b3092-6614-4b68-8de8-29f021f4bcf6)
+![output:](https://github.com/user-attachments/assets/d06b3092-6614-4b68-8de8-29f021f4bcf6)
 
 
 
