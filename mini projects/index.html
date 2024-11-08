@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ </head>
+ <body>
+  <h1>The Coffe House</h1>
+  <div class="container-fluid">
+   <div class="container">
+    <div class="part1">
+     <fieldset>
+      <legend>Personal Information</legend>
+      Full Name: <input type="text" id="name" /> <br />
+      Your Mobile: <input type="text" id="mobile" /><br />
+     </fieldset>
+    </div>
+
+    <div class="part2">
+     <fieldset>
+      <legend>Your Orders</legend>
+      coffee (Rs. 10): <input type="text" id="coffee" /> <br />
+      vada (Rs. 5): <input type="text" id="vada" /><br />
+      Tea  (Rs. 10): <input type="text" id="Tea" /><br />
+      biscuit(Rs.4): <input type="text" id="biscuit"/><br/>
+     </fieldset>
+    </div>
+   </div>
+
+   <div class="container">
+    <fieldset>
+     <legend>Your Bill</legend>
+     <h3>Your Name:<span id="name2"></span></h3>
+     <h3>Mobile: <span id="mobile2"></span></h3>
+     <table border="1">
+      <thead>
+       <tr>
+        <th>Menu</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Amount</th>
+       </tr>
+      </thead>
+      <tbody id="bill">
+       <tr>
+        <td>coffee</td>
+        <td>Rs. 10</td>
+        <td>1</td>
+        <td>10x1 = 10</td>
+       </tr>
+      </tbody>
+     </table>
+    </fieldset>
+    <h2>Total Amout: Rs. <span id="amount">0</span></h2>
+   </div>
+   <button class="print-button" onclick="printBill()">Print Bill</button>
+  </div>
+   <script src="script.js"></script>
+  </div>
+ </body>
+</html>
