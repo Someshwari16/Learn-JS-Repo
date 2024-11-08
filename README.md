@@ -12,6 +12,7 @@ src = [Apna College](https://youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_
 **#Day 2**
 
 fundamentals of Js 
+
 Topics : variables,datatypes,arrays
 
 src=[freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg?si=4-CfTI2RyWzP5b9P)
@@ -25,6 +26,7 @@ src=[[freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg?si=4-CfTI2RyWzP5b9P)
 
 
 **#Day 4**
+
 Topics : objects,events,class
 
 src=[geeksforgeeks](https://www.geeksforgeeks.org/classes-and-objects-in-javascript/)
