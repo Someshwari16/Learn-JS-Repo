@@ -24,6 +24,12 @@ src=[[freeCodeCamp.org](https://youtu.be/PkZNo7MFNFg?si=4-CfTI2RyWzP5b9P)
 #Day 4
 Topics : objects,events,class
 
+
+#Day 5
+creating a console of Bill Invoice
+
+![preview](![Screenshot 2024-11-08 215122](https://github.com/user-attachments/assets/329556ee-6d43-4221-b210-5e44294948fc)
+
 src=[geeksforgeeks](https://www.geeksforgeeks.org/classes-and-objects-in-javascript/)
 
 
@@ -31,7 +37,8 @@ src=[geeksforgeeks](https://www.geeksforgeeks.org/classes-and-objects-in-javascr
 
 creating console to Bill Invoice 
 
-[!preview]](https://github.com/user-attachments/assets/6738e5d3-3a44-490e-a8a3-6374c71ac449)
+![preview]](![Screenshot 2024-11-08 215122](https://github.com/user-attachments/assets/b27d9877-0768-4248-a7ab-cba4429f0698)
+
 
 
 
