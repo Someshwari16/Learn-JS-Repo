@@ -49,6 +49,19 @@ src=[GreatStack](https://youtu.be/WjxQRfZfZnw?si=tIVn8Mu9Pi2RMvzJ)
 
 mini project : QR Code Generator 
 
+**#Day 7**
+
+Topics: ES6 Syntax ( Maps,promises,symbols,string methods,Array methods)
+
+src=[geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-es6/)
+
+
+**#Day 8**
+
+Topics : Introduction to React
+
+src=[w3schools](https://www.w3schools.com/react/)
+
 
 
 
