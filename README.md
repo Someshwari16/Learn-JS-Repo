@@ -74,13 +74,13 @@ Topics:  props and React Components
 
 src=[geeksforgeeks](https://www.geeksforgeeks.org/react/)
 
-**Day 11**
+**#Day 11**
 
 Topics: Conditonal Renedering ,React Hooks,states 
 
 src=[geeksforgeeks](https://www.geeksforgeeks.org/react/) 
 
-**Day 12**
+**#Day 12**
 
 Topics: React Routers and API 
 
