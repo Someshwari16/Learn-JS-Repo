@@ -68,6 +68,27 @@ Topics: ReactJS Virtual DOM vs DOM ,React Components.
 
 src=[geeksforgeeks](https://www.geeksforgeeks.org/reactjs-virtual-dom/?ref=lbp)
 
+**#Day 10**
+
+Topics:  props and React Components
+
+src=[geeksforgeeks](https://www.geeksforgeeks.org/react/)
+
+**Day 11**
+
+Topics: Conditonal Renedering ,React Hooks,states 
+
+src=[geeksforgeeks](https://www.geeksforgeeks.org/react/) 
+
+**Day 12**
+
+Topics: React Routers and API 
+
+src=[geeksforgeeks](https://www.geeksforgeeks.org/react/) 
+
+
+
+
 
 
 
